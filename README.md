@@ -1,7 +1,10 @@
-# Blinkit-Sales-Analysis-PowerBI
-Blinkit Sales Analysis Dashboard using Power BI, DAX, Data Modeling and Business Intelligence
+# 🛒 Blinkit Sales Analysis Dashboard
 
+## Dashboard Preview
 
+![Blinkit Dashboard](Dashboard.PNG)
+
+## Project Overview
 # 🛒 Blinkit Sales Analysis Dashboard
 
 ## 📊 Project Overview
